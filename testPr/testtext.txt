@@ -5,5 +5,10 @@ hello git3
 hello git4
 hello git5
 
+<<<<<<< HEAD
 git7 and git10
 git8 and git11
+=======
+git7
+git8 and git9
+>>>>>>> dev
